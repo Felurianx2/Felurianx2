@@ -12,18 +12,17 @@
 
 ### 👩‍🚀 About Me 
 
-I'm a Full-Stack Web3 Developer passionate about building dApps, smart contracts, and open-source projects that bridge people and blockchain.  
-Brazil Stellar Ambassador, fostering adoption of decentralized finance and inclusion.  
-My first development was **Nhangara Mirim**, an educational Web3 game built on **Hedera** with a regenerative economy.  
+I'm a Full-Stack Web3 Developer.  
 Certified by **Hedera**, **Sui**, **Solana**, **Stellar** and **Ethereum**.  
-Creator of educational content to simplify complex blockchain concepts.  
+Educational content creator simplifying complex blockchain concepts.  
+Winner of the ETH Latam Hackathon Brazil 2025 by EthSamba
 
 ---
 
 ### ⚙️ Tech Stack  
 
 > **Languages:** Solidity · Rust · Move · JavaScript · TypeScript  
-> **Frameworks:** React · Node.js · Next.js
+> **Frameworks:** React · Node.js · Next.js  
 > **Blockchain:** Hedera · Ethereum · Solana · Sui · Stellar  
 > **Tools:** Web3.js · Ethers.js · IPFS · Hardhat · Foundry · OpenZeppelin  
 ---
