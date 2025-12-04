@@ -12,10 +12,12 @@
 
 ### 👩‍🚀 About Me 
 
-I'm a Full-Stack Web3 Developer.  
+Developer Relations - Connecting global Web3 builders and ecosystems.  
+Move Instructor - Enabling devs to build scalable and secure smart contracts on Sui.  
 Certified by **Hedera**, **Sui**, **Solana**, **Stellar** and **Ethereum**.  
 Educational content creator simplifying complex blockchain concepts.  
-Winner of the ETH Latam Hackathon Brazil 2025 by EthSamba
+Winner of the ETH Latam Hackathon Brazil 2025 by EthSamba.  
+Winner of Problem Solving Solution track at Stellar Hack+ Buenos Aires 2025.
 
 ---
 
