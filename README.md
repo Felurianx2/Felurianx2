@@ -49,14 +49,26 @@ Winner of the ETH Latam Hackathon Brazil 2025 by EthSamba
 
 ---
 
-### 📊 My GitHub Universe  
-
 ## My GitHub data
-| <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Felurianx2&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=2F81F7&bg_color=0d1117" alt="Stats" /> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felurianx2&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" /> | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Felurianx2&theme=transparent&text_color=2F81F7&bg_color=0d1117) |
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felurianx2&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felurianx2&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Felurianx2&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Felurianx2&theme=github_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felurianx2&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Felurianx2&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=2F81F7&ring=FFFFFF&fire=FFFFFF&currStreakNum=2F81F7&sideNums=2F81F7&currStreakLabel=2F81F7&sideLabels=FFFFFF&dates=FFFFFF) |
-| :-: | :-: |
+</div>
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Felurianx2&theme=dark&hide_border=true&background=0D1117&stroke=2F81F7&ring=FFFFFF&fire=FFFFFF&currStreakNum=2F81F7&sideNums=2F81F7&currStreakLabel=2F81F7&sideLabels=FFFFFF&dates=FFFFFF)
+
+</div>
 
 
 > *“The future belongs to those who build, line by line, block by block.”* Código Futura
