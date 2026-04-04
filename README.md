@@ -13,6 +13,7 @@
 ### 👩‍🚀 About Me 
 
 Developer Relations - Connecting global Web3 builders and ecosystems.  
+Arbitrum Ambassador & Stellar Ambassador
 Move Instructor - Enabling devs to build scalable and secure smart contracts on Sui.  
 Certified by **Hedera**, **Sui**, **Solana**, **Stellar** and **Ethereum**.  
 Educational content creator simplifying complex blockchain concepts.  
