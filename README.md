@@ -19,7 +19,7 @@ Certified by **Hedera**, **Sui**, **Solana**, **Stellar** and **Ethereum**.
 Educational content creator simplifying complex blockchain concepts.  
 Winner of the ETH Latam Hackathon Brazil 2025 by EthSamba.  
 Winner of Problem Solving track at Stellar Hack+ Buenos Aires 2025.  
-Third place winner at the Monad Blitz RJ.
+Third place winner at the Hackathon Monad Blitz RJ.
 
 ---
 
